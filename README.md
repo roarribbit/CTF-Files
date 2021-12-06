@@ -1,4 +1,1 @@
-CTF Files Will Be Posted Here
-- RoarRibbit
-
-Tutorials and Blogs:  https://roarribbit.blogspot.com/
+Tutorials and CTF Writeups:  https://roarribbit.blogspot.com/
